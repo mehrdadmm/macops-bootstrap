@@ -12,7 +12,7 @@ Included:
 * 🔐 6. Security & Secrets
 * 📦 7. Optional (but Recommended)
 * 📁 8. Folder Structure (Best Practice)
-```
+     ```
       ~/devops/
       ├── terraform/
       ├── ansible/
@@ -21,7 +21,7 @@ Included:
       ├── kubernetes/
       ├── projects/
       └── scripts/ 
-```
+     ```
 
 * ⚙️ 9. Performance Tips for M4 Chip
 *     Use Activity Monitor to verify CPU architecture.
