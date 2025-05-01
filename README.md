@@ -2,7 +2,7 @@
 
 This guide presents a streamlined process for automating the installation of a comprehensive DevOps/development environment on macos.
 
-Packages Included:
+Features:
 
 * 🔧 Homebrew & Base Tools
 * 🐳 Docker & Virtualization
