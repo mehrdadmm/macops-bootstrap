@@ -24,10 +24,10 @@ Included:
      ```
 
 * ⚙️ 9. Performance Tips for M4 Chip
-*     Use Activity Monitor to verify CPU architecture.
-*     Consider running containers with platform=linux/arm64 to avoid translation.
-*     Personal macos dotfiles optimized for DevOps and Zsh users on Apple Silicon (M1/M2/M3/M4).
-*     Avoid Rosetta apps — use native ARM64 builds when possible.
+     1. Use Activity Monitor to verify CPU architecture.
+     2. Consider running containers with platform=linux/arm64 to avoid translation.
+     3. Personal macos dotfiles optimized for DevOps and Zsh users on Apple Silicon (M1/M2/M3/M4).
+     4. Avoid Rosetta apps — use native ARM64 builds when possible.
 
 
 ## 📦 Included Configs
