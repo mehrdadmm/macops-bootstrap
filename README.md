@@ -17,7 +17,7 @@
 Clone and install:
 
 ```bash
-git clone https://github.com/mehrdadmm/dotfiles ~/.dotfiles
+git clone https://github.com/mehrdadmm/macops-bootstrap ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
