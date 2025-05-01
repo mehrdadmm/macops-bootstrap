@@ -1,6 +1,6 @@
 # macops-bootstrap
 
-> A One-Step Bootstrap for Preparing Your macOS DevOps Environment. This guide outlines the essential steps to configure your macos DevOps environment efficiently.
+A One-Step Bootstrap for Preparing Your macOS DevOps Environment. This guide outlines the essential steps to configure your macos DevOps environment efficiently.
 
 Included:
 
@@ -12,14 +12,16 @@ Included:
 * 🔐 6. Security & Secrets
 * 📦 7. Optional (but Recommended)
 * 📁 8. Folder Structure (Best Practice)
-      ```~/devops/
-           ├── terraform/
-           ├── ansible/
-           ├── docker/
-           ├── helm/
-           ├── kubernetes/
-           ├── projects/
-           └── scripts/ ```
+```
+      ~/devops/
+      ├── terraform/
+      ├── ansible/
+      ├── docker/
+      ├── helm/
+      ├── kubernetes/
+      ├── projects/
+      └── scripts/ 
+```
 
 * ⚙️ 9. Performance Tips for M4 Chip
 *     Use Activity Monitor to verify CPU architecture.
